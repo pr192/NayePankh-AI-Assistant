@@ -24,7 +24,7 @@ header{
 .hero{
 
     /* Replace background.jpg */
-    background-image:url("images/bg-pankh.avif");
+    background-image:url("bg-pankh.avif");
 
     background-size:cover;
     background-position:center;
